@@ -25,11 +25,22 @@ The dataset contains customer demographic and spending data:
 4. **Dimensionality Reduction:** Use PCA for 2D visualization
 5. **Visualization & Insights:** Interpret cluster patterns and correlations
 
-## Visualizations
-- **Silhouette Score Method:** Helps determine the optimal number of clusters
-- **Customer Clusters with Centroids:** Shows customer groups identified using K-Means
-- **Feature Correlation Heatmap:** Displays relationships between age, income, and spending
-- **Cluster Profile Heatmap:** Summarizes average feature values for each customer cluster
+##  Visualizations  
+###  Silhouette Score Method  
+Helps determine the optimal number of clusters.  
+![Silhouette Score](images/Silhouette_Score_Method.png)  
+
+### Customer Clusters with Centroids  
+Shows customer groups identified using K-Means.  
+![Clusters with Centroids](images/clusters_with_centroids.png)  
+
+### Feature Correlation Heatmap  
+Displays relationships between age, income, and spending.  
+![Feature Correlation](images/Feature_Correlation_Heatmap.png)  
+
+### Cluster Profile Heatmap  
+Summarizes average feature values for each customer cluster.  
+![Cluster Profile](images/Cluster_profile_heatmap.png)  
 
 ## Key Insights
 - Younger customers tend to have higher spending scores
@@ -41,5 +52,6 @@ The dataset contains customer demographic and spending data:
 **Bhagyavansh Sethi**  
 Email: sethibhagyavansh@gmail.com  
 LinkedIn: [Your LinkedIn Profile]
+
 
 
