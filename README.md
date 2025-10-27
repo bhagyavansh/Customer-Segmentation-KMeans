@@ -11,8 +11,8 @@ Using the Mall Customers dataset, this project groups customers into clusters, v
 - **Algorithm:** K-Means Clustering
 - **Visualization:** PCA (Principal Component Analysis)
 
-## Dataset
-**Source:** Mall Customer Segmentation Dataset from Kaggle
+## Dataset  
+**Source:** [Mall Customer Segmentation Dataset (Kaggle)](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)  
 
 ## Description
 The dataset contains customer demographic and spending data:
@@ -51,7 +51,8 @@ Summarizes average feature values for each customer cluster.
 ## Author
 **Bhagyavansh Sethi**  
 Email: sethibhagyavansh@gmail.com  
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: https://l1nk.dev/Nvuen
+
 
 
 
